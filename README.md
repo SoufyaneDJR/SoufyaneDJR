@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Soufyane DJAIDER</h1>
 <h3 align="center">A Data Enthusiast & A web developer from Morocco 🇲🇦</h3>
 
-<p>I am Software Engineer Grad Student. I will try to share all my future projects with you ! I try to be creative when working with my projects and discover new solutions, If you have an intersting porject, feel free to contact me !</p>
+<p>I am Software Engineer Grad Student. I will try to share all my future projects with you ! I try to be creative when working with my projects and discover new solutions, If you have an interesting project idea :bulb: , feel free to contact me !</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
